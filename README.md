@@ -12,7 +12,8 @@ I'm a software engineer 👨🏻‍💻 with several years experience. I have be
 - 👯 I'm looking to collaborate on [TumblThree](https://github.com/TumblThreeApp/TumblThree).
 - 🤔 I'm looking for help with anything I can't do myself or alone.
 - 💬 Ask me if you have a question.
-- 📫 You can write me at <ins>email.thomas694ATgmailDOTcom</ins> (replace 2 upper case words ;-)! I’ll try to respond as soon as I can.
+- 📫 You can write me at <ins>email.thomas694ATgmailDOTcom</ins> (replace 2 upper case words ;-)
+- 🎵 I like radio pop as well as some classical music.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I ❤️ 🦁
 
