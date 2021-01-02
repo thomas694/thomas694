@@ -5,11 +5,11 @@
 I'm a software engineer 👨🏻‍💻 with several years experience. I have been working in various fields, always been hard working and goal's focused with proven results.
 
 ## 👨🏻‍💻  About Me
-- 🔭 I'm currently working on helping first-timers to get involved in Open Source and GitHub.
+- 🔭 I'm currently working on ...
 - 💡 I like to explore new technologies and develop software solutions.
 - 🎓 I studied Computer Science and Computer Engineering.
 - 🌱 I'm currently learning more about Artificial Intelligence, Machine Learning and Cloud Architecture.
-- 👯 I'm looking to collaborate on [TumblThree](https://github.com/TumblThreeApp/TumblThree).
+- 👯 I'm looking to collaborate on ...!? 😷! ;)
 - 🤔 I'm looking for help with anything I can't do myself or alone.
 - 💬 Ask me if you have a question.
 - 📫 You can write me at <ins>email.thomas694ATgmailDOTcom</ins> (replace 2 upper case words ;-)
