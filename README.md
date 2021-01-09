@@ -1,10 +1,10 @@
-## Hi 👋🏻, I'm Thomas 👨🏻
+## Hi 👋, I'm Thomas 👨
 
 ![banner](https://user-images.githubusercontent.com/71355143/101535714-5db73780-3999-11eb-9211-7b8e7417a073.jpg)
 
-I'm a software engineer 👨🏻‍💻 with several years experience. I have been working in various fields, always been hard working and goal's focused with proven results.
+I'm a software engineer 👨‍💻 with several years experience. I have been working in various fields, always been hard working and goal's focused with proven results.
 
-## 👨🏻‍💻  About Me
+## 👨‍💻  About Me
 - 🔭 I'm currently working on ...
 - 💡 I like to explore new technologies and develop software solutions.
 - 🎓 I studied Computer Science and Computer Engineering.
