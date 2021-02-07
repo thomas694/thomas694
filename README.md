@@ -6,8 +6,6 @@
 ## 👨‍💻  About Me
 - 🔭 I'm currently working on ...
 - 💡 I like to explore new technologies and develop software solutions.
-- 🎓 I studied Computer Science and Computer Engineering.
-- 🌱 I'm currently learning more about Artificial Intelligence, Machine Learning and Cloud Architecture.
 - 👯 I'm looking to collaborate on ...!? 😷! ;)
 - 🤔 I'm looking for help with anything I can't do myself or alone.
 - 💬 Ask me if you have a question.
